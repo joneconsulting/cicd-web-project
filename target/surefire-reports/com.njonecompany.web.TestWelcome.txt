@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.njonecompany.web.TestWelcome
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.258 s - in com.njonecompany.web.TestWelcome
