@@ -8,5 +8,6 @@
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
+    <h1>도커랑 젠킨스, 그리고 안시블(욕아님)</h1>
 </body>
 </html>
